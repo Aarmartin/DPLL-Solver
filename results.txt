@@ -1,0 +1,10 @@
+Formulas/formula01.cnf 	 True 	 221
+Formulas/formula02.cnf 	 True 	 802
+Formulas/formula03.cnf 	 False 	 1319
+Formulas/formula04.cnf 	 True 	 332
+Formulas/formula05.cnf 	 False 	 13749
+Formulas/formula06.cnf 	 False 	 1223
+Formulas/formula07.cnf 	 True 	 75
+Formulas/formula08.cnf 	 True 	 2654
+Formulas/formula09.cnf 	 False 	 13745
+Formulas/formula10.cnf 	 True 	 178
